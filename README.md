@@ -1,1 +1,1 @@
-# Plant-Pals-Project
+Plant Pals was my capstone project for the Google Project Management course, where I took on the role of project manager responsible for updating documentation to ensure a successful launch. The project revolved around the scenario of Office Green, a commercial landscaping company, introducing the Plant Pals service that offers small, low-maintenance plants to high-volume customers. In this role, I was tasked with managing the rollout of this new service for the company.
